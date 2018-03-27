@@ -7,7 +7,7 @@
 int main()
 {
 	//char sacekusa;
-	printf("Pozdrav iz aplikacije od Tomislava Æuriæ, a sto se br. indeksa tice, nisam skolovala");
+	printf("Pozdrav iz aplikacije od Tomislava Æuriæ");
 	//scanf_s("%s", sacekusa);
     return 0;
 }
